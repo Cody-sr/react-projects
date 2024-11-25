@@ -18,7 +18,7 @@ function App() {
       >
         <section
           aria-label="colors"
-          className="fixed inset-x-0 bottom-4 flex flex-col gap-4"
+          className="fixed inset-x-0 bottom-4 flex flex-col gap-4 p-2"
         >
           <ShadesColors
             color={color}
